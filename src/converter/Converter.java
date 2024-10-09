@@ -1,7 +1,9 @@
 package converter;
 
+import java.util.ArrayList;
+
 public interface Converter {
-    public String convert(String p, int target);
-    public String getResult();
-    public String getArgument();
+    public void convert(String p, int target);
+    public String getResult(int target);
+    public ArrayList<String> getArgument();
 }

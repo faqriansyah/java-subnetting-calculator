@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c61640-455b-405c-9071-c18ecddb9a0b" name="Changes" comment="creating filter and renewing binary_to_decimal">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/converter/DecimalBinaryConvert.java" afterDir="false" />
+    <list default="true" id="63c61640-455b-405c-9071-c18ecddb9a0b" name="Changes" comment="convertion method done">
+      <change afterPath="$PROJECT_DIR$/src/converter/PrefixNetmaskConvert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/converter/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/converter/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/converter/DecimalBinaryConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/converter/DecimalBinaryConvert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728270151530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="convertion method done">
+      <option name="closed" value="true" />
+      <created>1728308959673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728308959673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +166,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="creating convertion" />
     <MESSAGE value="creating filter and renewing binary_to_decimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating filter and renewing binary_to_decimal" />
+    <MESSAGE value="convertion method done" />
+    <option name="LAST_COMMIT_MESSAGE" value="convertion method done" />
   </component>
 </project>
